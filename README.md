@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Apply for Flickr API key and save as a string in /src/config.js.  Export string as 'apiKey'. Example below.
 
 const apiKey = 'API KEY HERE';
+
 export default apiKey;
 
 ## Available Scripts
